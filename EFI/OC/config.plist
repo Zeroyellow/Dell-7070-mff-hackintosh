@@ -166,7 +166,7 @@
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 				<key>layout-id</key>
-				<integer>13</integer>
+				<integer>12</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
@@ -811,9 +811,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C078164034NKXPGJA</string>
+			<string>C07829310QXKXPG1H</string>
 			<key>ProcessorType</key>
-			<integer>1801</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>cLXoJ//l</data>
 			<key>SpoofVendor</key>
@@ -823,18 +823,18 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07WL8YNJYVX</string>
+			<string>C07X3SYWJYVX</string>
 			<key>SystemUUID</key>
-			<string>BBF87345-CF28-4D4A-BE73-3B05818C1CE5</string>
+			<string>922C48C7-F632-4DE7-8085-1117725B9A60</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>11/16/2021</string>
+			<string>05/21/2021</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>1715.60.5.0.0</string>
+			<string>1715.0.26.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -844,7 +844,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-7BA5B2DFE22DDD8C</string>
 			<key>BoardSerialNumber</key>
-			<string>C078164034NKXPGJA</string>
+			<string>C07829310QXKXPG1H</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -854,15 +854,15 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C07WL8YNJYVX</string>
+			<string>C07X3SYWJYVX</string>
 			<key>ChassisType</key>
 			<integer>16</integer>
 			<key>ChassisVersion</key>
 			<string>Mac-7BA5B2DFE22DDD8C</string>
 			<key>FirmwareFeatures</key>
-			<data>ZvSP/QgAAAA=</data>
+			<data>ZvSP/QAAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
-			<data>f//f/wgAAAA=</data>
+			<data>f//f/wAAAAA=</data>
 			<key>PlatformFeature</key>
 			<integer>32</integer>
 			<key>ProcessorType</key>
@@ -878,9 +878,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C07WL8YNJYVX</string>
+			<string>C07X3SYWJYVX</string>
 			<key>SystemUUID</key>
-			<string>BBF87345-CF28-4D4A-BE73-3B05818C1CE5</string>
+			<string>922C48C7-F632-4DE7-8085-1117725B9A60</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -963,6 +963,16 @@
 				<true/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>AudioDxe.efi</string>
 			</dict>
 			<dict>
 				<key>Arguments</key>
