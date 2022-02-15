@@ -1,4 +1,3 @@
-<img width="900" alt="xianka" src="https://user-images.githubusercontent.com/70483137/154045569-90247fdc-dbc6-4c3e-8492-d1f26bbaff73.png">
 OpenCore0.7.8--7070mff-macOS-Monterey-12.2.1
 
 我的配置
@@ -36,3 +35,4 @@ cpu温度、风扇转速的传感器
 
 声音外放和耳机切换
 
+<img width="900" alt="xianka" src="https://user-images.githubusercontent.com/70483137/154045569-90247fdc-dbc6-4c3e-8492-d1f26bbaff73.png">
