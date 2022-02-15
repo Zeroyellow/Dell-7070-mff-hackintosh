@@ -1,4 +1,4 @@
-我的配置
+#我的配置
 主机：戴尔 OptiPlex 7070 MFF微型机 （低压版配130W适配器）
 BIOS:OptiPlex_7070_1.12.0（12 Jan 2022）
 处理器:英特尔酷睿 i3-8100 (4核4线程/6MB/3.60 GHz/65W) TB
@@ -7,7 +7,8 @@ BIOS:OptiPlex_7070_1.12.0（12 Jan 2022）
 硬盘:阿斯加特（Asgard）250GB SSD固态硬盘 M.2接口(NVMe协议) AN2极速版/石墨烯散热 五年质保 JD
 声卡:Realtek ALC255
 无线网卡：英特尔9560HUM（M.2: CNVio），支持2x2 MU-MIMO和160MHz频带，5Hz频段理论带宽可达1.733Gbps，同时还支持蓝牙5.0
-功能情况
+
+#功能情况
 基本完美
 声卡正常, 采用AppleALC注入, id=11
 icloud
