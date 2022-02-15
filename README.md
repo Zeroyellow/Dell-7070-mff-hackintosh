@@ -1,3 +1,5 @@
+OpenCore0.7.8--7070mff-macOS-Monterey-12.2.1
+
 我的配置
 
 主机：戴尔 OptiPlex 7070 MFF微型机 （低压版配130W适配器）
