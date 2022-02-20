@@ -18,19 +18,33 @@ BIOS:OptiPlex_7070_1.12.0（12 Jan 2022）
 
 
 KEXT
-AppleALC.kext	HDMI以及声卡	                      
-BluetoolFixup.kext	修复Monterey 蓝牙		        
-Lilu.kext	驱动扩展库(超重要)	    
+
+AppleALC.kext	HDMI以及声卡
+
+BluetoolFixup.kext	修复Monterey 蓝牙	
+
+Lilu.kext	驱动扩展库(超重要)	
+
 SMCProcessor.kext	SMC-处理器	
+
 VirtualSMC.kext	SMC(超重要)	
-WhateverGreen.kext	核显驱动	
+
+WhateverGreen.kext	核显驱动
+
 IntelBluetoothFirmware.kext	AC9560蓝牙固件	
-IntelBluetoothInjector.kext	AC9560蓝牙	
-AirportItlwm-Sur.kext	AC9560 Wi-Fi Big Sur	
-AirportItlwm-Monterey.kext	AC9560 Wi-Fi Monterey		
-RestrictEvents.kext	屏蔽一些系统加载项		
+
+IntelBluetoothInjector.kext	AC9560蓝牙
+
+AirportItlwm-Sur.kext	AC9560 Wi-Fi Big Sur
+
+AirportItlwm-Monterey.kext	AC9560 Wi-Fi Monterey	
+
+RestrictEvents.kext	屏蔽一些系统加载项
+
 NVMeFix.kext	改善nvme固态		
+
 VerbStub.kext	耳麦切换		
+
 
 功能情况
 
